@@ -1,16 +1,47 @@
-# sneaker_shop_app
+# 👟 Sneaker Shop App
 
-A new Flutter project.
+A sleek and modern e-commerce mobile application inspired by **Nike** design. Built with Flutter, this app demonstrates clean UI, smooth navigation, and robust state management.
 
-## Getting Started
+## ✨ Key Features
+* **Minimalist UI**: Clean aesthetic with custom buttons, drawers, and bottom navigation bars.
+* **Dynamic Shop**: Horizontal scrolling "Hot Picks" list for an interactive shopping experience.
+* **Cart Functionality**: Real-time item management-add or remove sneakers with instant UI updates.
+* **Provider State Management**: Efficient data flow across the app using the Provider package.
 
-This project is a starting point for a Flutter application.
+## 🛠 Tech Stack
+* **Framework**: [Flutter](https://flutter.dev)
+* **Language**: [Dart](https://dart.dev)
+* **State Management**: [Provider](https://pub.dev/packages/provider)
+* **Icons**: Lucide Icons & Material Design Icons
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Prerequisites
+* Flutter SDK installed.
+* Android Studio / VS Code.
+* An Emulator or physical device.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/your-username/sneaker_shop_app.git](https://github.com/your-username/sneaker_shop_app.git)
+2. Navigate to the project folder:
+   ```bash
+   cd sneaker_shop_app
+3. Get dependencies:
+    ```bash
+   flutter pub get
+4. Run the app:
+    ```bash
+   flutter run
+
+## 📸 Preview
+
+
+<img src="assets/git/homePage.png" width="200">
+
+## 😺Cute cat
+
+![](assets/git/cat.gif)
+
+)))
